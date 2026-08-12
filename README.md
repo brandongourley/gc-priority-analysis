@@ -187,4 +187,4 @@ No dependencies; Node >= 18. `data/gc_metrics.csv` is the anonymized per-GC data
 
 ---
 
-*Part of a set on a production construction ERP: [the system itself](https://github.com/brandongourley/construction-erp-case-study) and [a walk-forward backtest of its win-probability model](https://github.com/brandongourley/bid-win-probability-backtest).*
+*Part of a set on a production construction ERP: [the system itself](https://github.com/brandongourley/construction-erp-case-study), [a walk-forward backtest of its win-probability model](https://github.com/brandongourley/bid-win-probability-backtest), and [the overhead-per-bid economics of the same pipeline](https://github.com/brandongourley/overhead-per-bid-analysis).*
